@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/mktFV3n0/Viewitlogo.png" width="96" height="96" alt="ViewIt Studio Logo" />
   <h3>Browser-Based Writing & Development Workspace</h3>
   <p><b>Write it. Build it. View it.</b></p>
-  <a href="https://viewiter.blogspot.com/">Live Demo (Blogger Hosted)</a>
+  <a href="https://viewitstudio.blogspot.com/">Live Demo (Blogger Hosted)</a>
 </div>
 
 ---
